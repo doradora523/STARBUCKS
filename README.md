@@ -1,2 +1,3 @@
 # STARBUCKS
-STARBUCKS Vanilla App Practice From ParkYoungWoong
+STARBUCKS Vanilla App Practice
+Reference : https://github.com/ParkYoungWoong/starbucks-vanilla-app
